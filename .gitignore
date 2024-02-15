@@ -75,6 +75,10 @@ artifacts/
 *.svclog
 *.scc
 *.sln
+*.json
+*.cache
+*.props
+*.AssemblyInfo.cs
 
 # Chutzpah Test files
 _Chutzpah*
